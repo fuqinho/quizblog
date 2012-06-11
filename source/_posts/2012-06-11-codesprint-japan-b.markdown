@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CodeSprint Japan - マトリックス"
-date: 2012-06-11 20:13
+date: 2012-06-11 21:03
 comments: true
 categories: CodeSprint Kruskal
 ---

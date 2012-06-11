@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CodeSprint Japan - 嫌いな数値"
-date: 2012-06-11 19:38
+date: 2012-06-11 21:38
 comments: true
 categories: CodeSprint Euclidean
 ---
