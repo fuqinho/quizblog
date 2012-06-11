@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://quiz.fuqinho.net
+title: fuqinho@競技プログラミング
+subtitle: コンテストやオンラインジャッジで出題されたクイズを頑張って解きます
+author: fuqinho
 simple_search: http://google.com/search
 description:
 
