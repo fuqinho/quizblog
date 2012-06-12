@@ -3,7 +3,7 @@ layout: post
 title: "POJ 2429 - GCD &amp; LCM Inverse"
 date: 2012-06-12 13:23
 comments: true
-categories: POJ Euclidean Eratosthenes MillerRabin PollardsRho
+categories: POJ NumberTheory Euclidean Eratosthenes MillerRabin PollardsRho
 ---
 ## 概要
 最小公倍数(LCM)と最大公約数(GCD)が与えられた時、それを満たす整数のペア(a,b)を求めよ。複数あり得る場合は、a+bが最も小さくなるペアを答えよ。([原文](http://poj.org/problem?id=2429))
