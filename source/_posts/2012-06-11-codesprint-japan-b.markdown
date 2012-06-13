@@ -3,7 +3,7 @@ layout: post
 title: "CodeSprint Japan - マトリックス"
 date: 2012-06-11 21:03
 comments: true
-categories: CodeSprint Graph Kruskal
+categories: [CodeSprint, Graph, Kruskal]
 ---
 
 ## 概要

@@ -3,7 +3,7 @@ layout: post
 title: "SRM 545 - StrIIRec (Div1 275/Div2 550)"
 date: 2012-06-11 20:30
 comments: true
-categories: TopCoder SRM Greedy
+categories: [TopCoder, SRM, Greedy]
 ---
 
 ## 概要

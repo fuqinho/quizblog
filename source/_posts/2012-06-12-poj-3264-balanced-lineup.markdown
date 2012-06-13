@@ -3,7 +3,7 @@ layout: post
 title: "POJ 3264 - Balanced Lineup"
 date: 2012-06-12 12:52
 comments: true
-categories: POJ SegmentTree
+categories: [POJ, SegmentTree]
 ---
 
 ## 概要

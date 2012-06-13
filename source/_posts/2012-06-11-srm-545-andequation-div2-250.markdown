@@ -3,7 +3,7 @@ layout: post
 title: "SRM 545 - ANDEquation (Div2 250)"
 date: 2012-06-11 20:00
 comments: true
-categories: TopCoder SRM
+categories: [TopCoder, SRM]
 ---
 
 ## 概要

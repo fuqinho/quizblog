@@ -3,7 +3,7 @@ layout: post
 title: "POJ 1201 - Intervals"
 date: 2012-06-12 17:40
 comments: true
-categories: POJ Graph BellmanFord
+categories: [POJ, Graph, BellmanFord]
 ---
 
 ## 概要
@@ -18,11 +18,11 @@ categories: POJ Graph BellmanFord
 * d[i]をi以下の整数でZに含まれるものの個数とすると、下記の不等式が成り立つ。
     * d[i+1] ≧ d[i]
     * d[i+1] ≦ d[i] + 1
-    * d[Bi] - d[Ai-1] ≧ c
+    * d[Bi] - d[Ai-1] ≧ Ci
 * それぞれ、下記の辺を張ることに対応する
     * i+1からiにコスト0の辺を張る
     * iからi+1にコスト1の辺を張る
-    * BiからAi-1にコスト-cの辺を張る
+    * BiからAi-1にコスト-Ciの辺を張る
 * 制約より、50000から0までの最短経路の-1倍が答えになる。負の辺を含むのでベルマンフォード法で求める。
 
 ## コード
